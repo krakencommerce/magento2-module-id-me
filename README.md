@@ -2,6 +2,8 @@
 
 A Magento 2 extension that integrates [ID.me](https://www.id.me/) identity verification to offer exclusive discounts to military members, veterans, first responders, nurses, teachers, students, and other verified groups directly in your Magento 2 store's cart and checkout.
 
+More details here: [krakencommerce.com/idme-magento-2/](https://www.krakencommerce.com/idme-magento-2/)
+
 ## Why ID.me for Magento 2?
 
 Offering verified military and first responder discounts builds customer loyalty, drives conversions, and shows appreciation for those who serve. This extension makes it seamless by embedding the ID.me verification flow directly into your Magento 2 shopping cart and checkout -- no custom development required.
